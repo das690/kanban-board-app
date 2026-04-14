@@ -53,7 +53,7 @@ const KanbanBoard = () => {
           className="flex items-center gap-2 bg-indigo-600 text-white px-5 py-2.5 rounded-lg hover:bg-indigo-700 transition-colors shadow-sm cursor-pointer"
         >
           <Plus size={20} />
-          <span>Add Task</span>
+          <span>Add Task 📝</span>
         </button>
       </div>
 
